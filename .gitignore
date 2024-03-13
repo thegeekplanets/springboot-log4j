@@ -3,6 +3,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+mvnw
+mvnwd.cmd
 
 ### STS ###
 .apt_generated
@@ -33,4 +35,4 @@ build/
 .vscode/
 
 ### Log4J 2 Logs ###
-**/logs/**
+/logs/**
