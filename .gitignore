@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Log4J 2 Logs ###
-**/logs/**
+/logs/
