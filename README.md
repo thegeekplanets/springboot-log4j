@@ -20,6 +20,3 @@ Steps to run the application
 2. mvn clean install -Dmaven.test.skip=true
 3. Run as Java Application ( SpringbootLog4jApplication )
 4. Check the console
-
-Study Material:
-1. https://stackify.com/log4j2-java/
